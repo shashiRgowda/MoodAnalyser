@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\MoodAnalyser\MoodAnalyser\bin\Debug\MoodAnalyser.exe.config
+C:\Users\Admin\Documents\MoodAnalyser\MoodAnalyser\bin\Debug\MoodAnalyser.exe
+C:\Users\Admin\Documents\MoodAnalyser\MoodAnalyser\bin\Debug\MoodAnalyser.pdb
+C:\Users\Admin\Documents\MoodAnalyser\MoodAnalyser\obj\Debug\MoodAnalyser.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\MoodAnalyser\MoodAnalyser\obj\Debug\MoodAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\MoodAnalyser\MoodAnalyser\obj\Debug\MoodAnalyser.exe
+C:\Users\Admin\Documents\MoodAnalyser\MoodAnalyser\obj\Debug\MoodAnalyser.pdb
